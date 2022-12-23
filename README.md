@@ -1,1 +1,1 @@
-This is test project with hero admin pane
+This is test project with hero admin pan
